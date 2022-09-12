@@ -33,12 +33,17 @@
 .evidenzia{
     color: blue;
 }
-.footer-image{
-    
-    text-align: left;
-}
 .testo-1{
     color: white;
-    text-align: center;
-
+}
+.img-footer{
+    width: 50%;
+    height: 50%;
+}
+.img-footer-2{
+    width: 50%;
+    height: 50%;
+}
+.testo-2{
+    color: white;
 }
